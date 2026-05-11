@@ -27,12 +27,13 @@ A machine learning project that detects whether an email is **Phishing** or **Sa
 ---
 
 ## Project Structure
+```text
 Phishing-Email-Detection/
 │
 ├── phishing_detector.ipynb
 ├── dataset.csv
 └── README.md
-
+```
 ---
 
 ## 🧠 How It Works
@@ -54,7 +55,8 @@ Phishing-Email-Detection/
 
 ---
 
-Example Output
+## Example Output
+```text
 Email: Click here to win money
 Result: Phishing ❌
 Accuracy: 85%
