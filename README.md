@@ -36,7 +36,7 @@ Phishing-Email-Detection/
 ```
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Dataset is loaded from CSV file
 2. Email text is converted into numerical form using CountVectorizer
@@ -47,7 +47,7 @@ Phishing-Email-Detection/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open Jupyter Notebook
 2. Open `phishing_detector.ipynb`
@@ -58,5 +58,5 @@ Phishing-Email-Detection/
 ## Example Output
 ```text
 Email: Click here to win money
-Result: Phishing ❌
+Result: Phishing 
 Accuracy: 85%
